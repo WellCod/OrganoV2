@@ -9,4 +9,5 @@ https://user-images.githubusercontent.com/7384901/208548542-d858a046-24a9-4cbd-a
   - Adicionado funcionalidade para inserir um novo time
   - Adicionado a possibilidade de escolha da cor do time
   - Adicionado funcionalidade para exclusão de integrante do time
+  - Adicionado a possibilidade de troca da cor do time
 
